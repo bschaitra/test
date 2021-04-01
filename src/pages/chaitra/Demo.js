@@ -4,7 +4,7 @@ export default function page2() {
     return (
         <>
         <div>
-                chaitra
+                chaitrabs
         </div>
         </>
     )
