@@ -5,7 +5,7 @@ export default function page2() {
         <>
         <div>
            
-
+                chaitra
         </div>
         </>
     )
